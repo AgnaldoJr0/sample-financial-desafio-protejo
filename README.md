@@ -1,6 +1,6 @@
 # Desafio de projeto na plataforma DIO sobre Power BI 
 
-Neste projeto tinhamos 2 desafios:
+Neste projeto tínhamos 2 desafios:
 - O Primeiro era recriar 2 páginas que já tinham sido mostradas nas aulas.
 - O Segundo era criar do zero uma página.
 
@@ -12,8 +12,8 @@ Primeira página é composta por:
 
 Segunda página é composta por: 
 - Visual de pizza: Soma de Profit por país.
-- Visual gráfico de conlunas empilhadas 1: Soma de proft por ano e mês.
-- Visual gráfico de conlunas empilhadas 2: Soma de Sales por país.
+- Visual gráfico de colunas empilhadas 1: Soma de proft por ano e mês.
+- Visual gráfico de colunas empilhadas 2: Soma de Sales por país.
 - Visual cartão 1: Soma de Sales
 - Visual cartão 2: Soma de Units sold.
   
